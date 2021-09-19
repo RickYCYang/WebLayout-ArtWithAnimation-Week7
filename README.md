@@ -1,4 +1,4 @@
-## Github PAge
+## Github Page
 https://rickycyang.github.io/WebLayout-ArtWithAnimation-Week7/
 
 ## Web Layout Practice (Home and Cart Page Only, Responsive for Desktop, Pad, and Phone)
