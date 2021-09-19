@@ -3,7 +3,11 @@ https://rickycyang.github.io/WebLayout-ArtWithAnimation-Week7/
 
 ## Web Layout Practice (Home and Cart Page Only, Responsive for Desktop, Pad, and Phone)
 - Bootstrap, Scss, HTML
+
+- Home Page
 ![Home](https://user-images.githubusercontent.com/54363801/133922272-5cab298a-d7fd-443b-a9c9-bf7320131c89.png)
+
+- Cart Page
 ![Cart](https://user-images.githubusercontent.com/54363801/133922271-43c386f9-4c06-4e32-ab65-e5e1e76fdc22.png)
 
 ## 指令列表
